@@ -5,6 +5,12 @@ Using light operated door latch circuit, we can close or open the door of our ro
 ![](https://github.com/Sankul2699/LIGHT-OPERATED-LOCK/blob/master/Images/Screenshot%20(47).png)
 
 ![](https://github.com/Sankul2699/LIGHT-OPERATED-LOCK/blob/master/Images/door%20unlock.JPG)
+
+## Video Demonstration
+In the video the stepper motor is represented like a fan connected to a motor just to show the direction of the rotation.
+The stepper motor is later connected to the latch to lock and unlock door.The latch motor  interface was not made at the time of making this video. 
+[Light Operated door lock](https://www.youtube.com/watch?v=VgwU3S13_K8)
+
 # Circuit diagram
  
 ![](https://github.com/Sankul2699/LIGHT-OPERATED-LOCK/blob/master/Images/CKT%20diag.PNG)
@@ -33,10 +39,7 @@ When you direct torchlight on the LDR, the stepper motor runs in one direction t
 latch stepper motor interface
 
 
-## Video Demonstration
-In the video the stepper motor is represented like a fan connected to a motor just to show the direction of the rotation.
-The stepper motor is later connected to the latch to lock and unlock door.The latch motor  interface was not made at the time of making this video. 
-[Light Operated door lock](https://www.youtube.com/watch?v=VgwU3S13_K8)
+
 
  
 ## Repository Contents
